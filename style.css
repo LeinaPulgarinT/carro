@@ -1,0 +1,189 @@
+.principal {
+    position: relative;
+}
+
+.grupoUno{
+    border: none;
+    font-size: 2em;
+    padding: 15xp;
+    cursor: pointer;
+    position: absolute;
+    bottom: 30%;
+    left: 30%;
+}
+
+.clutch{
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, red, #b83309);
+    background: -moz-linear-gradient(top, red, #b83309);
+    background: linear-gradient(top, red, #b83309);
+    padding: 10xp;
+    cursor: pointer;
+}
+
+.freno {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, red, #b83309);
+    background: -moz-linear-gradient(top, red, #b83309);
+    background: linear-gradient(top, red, #b83309);
+    padding: 10xp;
+    cursor: pointer;
+}
+
+.arranque {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, red, #b83309);
+    background: -moz-linear-gradient(top, red, #b83309);
+    background: linear-gradient(top, red, #b83309);
+    padding: 10xp;
+    cursor: pointer;
+}
+
+.direccionales {
+    position: absolute;
+    bottom: 47%;
+    left: 23%;
+}
+
+.izquierda {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, green, #197a1e);
+    background: -moz-linear-gradient(top, green, #197a1e);
+    background: linear-gradient(top, green, #197a1e);
+    padding: 10xp;
+    cursor: pointer;
+}
+
+.derecha {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, green, #197a1e);
+    background: -moz-linear-gradient(top, green, #197a1e);
+    background: linear-gradient(top, green, #197a1e);
+    padding: 10xp;
+    cursor: pointer;  
+}
+
+    
+.cajaDeCambios{
+    position: absolute;
+    bottom: 25%;
+    left: 50%
+}
+
+.neutro {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, blue, #381291);
+    background: -moz-linear-gradient(top, blue, #381291);
+    background: linear-gradient(top, blue, #381291);
+    padding: 10xp; 
+}
+
+.uno {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, blue, #381291);
+    background: -moz-linear-gradient(top, blue, #381291);
+    background: linear-gradient(top, blue, #381291);
+    padding: 10xp;  
+}
+
+.dos {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, blue, #381291);
+    background: -moz-linear-gradient(top, blue, #381291);
+    background: linear-gradient(top, blue, #381291);
+    padding: 10xp;
+}
+
+.tres {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, blue, #381291);
+    background: -moz-linear-gradient(top, blue, #381291);
+    background: linear-gradient(top, blue, #381291);
+    padding: 10xp;
+}
+
+.cuatro {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, blue, #381291);
+    background: -moz-linear-gradient(top, blue, #381291);
+    background: linear-gradient(top, blue, #381291);
+    padding: 10xp;
+}
+
+.cinco {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, blue, #381291);
+    background: -moz-linear-gradient(top, blue, #381291);
+    background: linear-gradient(top, blue, #381291);
+    padding: 10xp;
+}
+
+.seis {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, blue, #381291);
+    background: -moz-linear-gradient(top, blue, #381291);
+    background: linear-gradient(top, blue, #381291);
+    padding: 10xp;
+}
+
+.reversa {
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, blue, #381291);
+    background: -moz-linear-gradient(top, blue, #381291);
+    background: linear-gradient(top, blue, #381291);
+    padding: 10xp;
+}
+
+.encendido {
+    position: absolute;
+    bottom: 50%;
+    left: 42%; 
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, red, #b83309);
+    background: -moz-linear-gradient(top, red, #b83309);
+    background: linear-gradient(top, red, #b83309);
+    padding: 10xp;
+    cursor: pointer;
+}
+
+.frenoDeMano {
+    position: absolute;
+    bottom: 12%;
+    left: 46%; 
+    border: none;
+    font-size: 20px;
+    color: white;
+    background: -webkit-linear-gradient(top, pink, #ca48b9);
+    background: -moz-linear-gradient(top, pink, #ca48b9);
+    background: linear-gradient(top, pink, #ca48b9);
+    padding: 10xp;
+    cursor: pointer;
+}
